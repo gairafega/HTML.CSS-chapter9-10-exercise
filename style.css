@@ -84,7 +84,6 @@ main {
 	height: 50px;
 	background-color: #AAAAAA;
 }
-
 @media screen and (max-width: 768px){
 	main{
 		width: 100%;
